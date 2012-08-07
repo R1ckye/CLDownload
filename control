@@ -1,0 +1,8 @@
+Package: com.rickye.cldownload
+Name: CLDownload
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Command Line tool to download files
+Maintainer: Rickye
+Author: Rickye
+Section: System
